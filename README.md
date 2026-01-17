@@ -16,10 +16,6 @@ Hands-on cybersecurity lab demonstrating a **Meterpreter reverse shell attack** 
 - Complete **attack/defense workflow** for SOC analyst training
 
 
-## 🖥️ Architecture Labo
-
-
-
 ## 🖥️ Lab Architecture
 
 | **Component**              | **IP/Role**         | **Tools**              |
