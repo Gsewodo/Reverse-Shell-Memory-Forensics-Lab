@@ -28,7 +28,6 @@ Hands-on cybersecurity lab demonstrating a **Meterpreter reverse shell attack** 
 | **Windows Victim (Target)**| Compromised Host   | WinPmem               |
 | **Clean Analysis PC**      | Forensics Workstation | Volatility 3        |
 
-**Workflow** : `Kali → Windows Victim → Clean PC Analysis`
 
 
 ## 1️⃣ Génération Payload Meterpreter
