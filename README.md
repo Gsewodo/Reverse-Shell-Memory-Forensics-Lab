@@ -20,11 +20,16 @@ Hands-on cybersecurity lab demonstrating a **Meterpreter reverse shell attack** 
 
 
 
-`Kali Linux : 192.168.30.35  (Attaquant) ` :
-Metasploit + msfvenom 
-` Windows Victim (Cible)`:
-WinPmem
-` Windows **PC tiers propre** ` : Volatility 3
+## 🖥️ Lab Architecture
+
+| **Component**              | **IP/Role**         | **Tools**              |
+|----------------------------|---------------------|------------------------|
+| **Kali Linux (Attacker)**  | 192.168.30.35      | Metasploit + msfvenom |
+| **Windows Victim (Target)**| Compromised Host   | WinPmem               |
+| **Clean Analysis PC**      | Forensics Workstation | Volatility 3        |
+
+**Workflow** : `Kali → Windows Victim → Clean PC Analysis`
+
 
 ## 1️⃣ Génération Payload Meterpreter
 
