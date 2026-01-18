@@ -1,9 +1,6 @@
 # Reverse-Shell-Memory-Forensics-Lab
 Reverse Shell Attack Simulation + RAM Analysis with Volatility 3
 
-# Labo Reverse Shell + Memory Forensics
-
-
 ## 📋 Project Description
 
 Hands-on cybersecurity lab demonstrating a **Meterpreter reverse shell attack** (Metasploit) followed by **memory forensics investigation** using **WinPmem** acquisition and **Volatility 3** analysis.
