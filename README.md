@@ -63,7 +63,8 @@ Hands-on cybersecurity lab demonstrating a **Meterpreter reverse shell attack** 
 **PC tiers propre**  :
 
 
-`git clone https://github.com/volatilityfoundation/volatility3.git cd volatility3`  
+`git clone https://github.com/volatilityfoundation/volatility3.git`
+`cd volatility3`  
 
 ### Lister processus suspects
 
